@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>RSK EDITS</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    
+    <link rel="stylesheet" href="rskedits.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+<!-- oldverion -->
+<link rel="stylesheet" href="https://stackpath.bootstrap.com/bootstrap/4.2.1/css/bootstrap.min.css">
+<script src="https://stackpath.bootstrap.com/bootstrap/4.2.1/js/bootstrap.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"></script>
+
+
+  </head>
+  
+
+ 
+  
+  
+  <body>
+          <div class="logo"><a href="#"><img src="images/youtube.jpg" width="36px" height="36px"></a>
+
+
+      <div class="col-lg-12 text-center mt-5">
+      </div>
+      <div class="col-md-4 offset-md-4 mt-5 border border-success pt-3">
+      <div class="input-group mb-3">
+        <input type="text" class="form-control" placeholder="Search ......" aria-label="Recipient's username">
+        <div class="input-group-append">
+          <span class="input-group-text"><i class="fa fa-search"></i></span>
+        </div>
+
+
+                    <nav id="topnav" class="navbar navbar-light bg-light">
+                      <div class="container-fluid"></div>
+                          <div class="navbar-header"></div>
+                              <a class="navbar-brand" href="#">RSK EDITS</a>
+                              <!-- <h2 class="navbar-brand brand-name">
+                                <a href="#"><img class="img-responsive2"       
+                                src="images/youtube.jpg">rskedits</a>
+                            </h2> -->
+                  </div>
+
+                  
+                  </div>
+                      <!-- <ul class="nav navbar-nav">
+                      <li><a href="#">1</a></li>
+                      <li><a href="#">2</a></li>
+                      <li><a href="#">3</a></li>
+                  </ul> -->
+                  <div class="container">
+                                                              
+                      <div class="dropdown">
+                        <button class="btn btn-primary dropdown-toggle" type="button" data-toggle="dropdown">support me
+                        <span class="caret"></span></button>
+                        <ul class="dropdown-menu">
+                          <li><a href="https://www.youtube.com/channel/UCxSEBvDwHLPV2bIPOqRt7zw">youtube</a></li>
+                          <li><a href="https://www.instagram.com/_rsk_edits/">instagram</a></li>
+                          <li><a href="https://www.reddit.com/user/Informal-Complex1738">reddit</a></li>
+                        </ul>
+                      </div>
+                    </div>
+                  
+                </nav>
+
+   <div class="page-container">
+     <header>
+      
+
+    </header>
+
+    
+     
+    
+     <nav id="sidenav">
+       <p id="hover"><a href="rskedits.html">Home<a></p>
+     <p id="hover"><a href="behind_the_scenes.html">behind the scenes<a></p>
+      
+       <hr>
+       <h3 style="color:red;font-weight:400; font-family:arial;font-size:.9em;"><a href="contact us.html">contact us</a></h3>
+     
+       <hr>
+     
+     </nav>
+<!--nav2------------------------------------------------------------------>     
+    <div class="nav2">
+      <a href="rskedits.html"><h4>Home&nbsp;&nbsp;</h4></a><a href="behind_the_scenes.html"><h4 style="font-weight:200; color:#c3c3c3">
+        &nbsp;&nbsp;behind the scenes</h4></a>
+     </div>
+
+    
+<!--Article------------------------------------------------------------------>
+     <div class="article-container">
+       
+       <div class="row1">
+
+        <div class="cell1 clear"><a href="#"><img src="images/RDR2.jpg" ></a>
+        <a href="videoplayer.html" >rdr2</a>
+           <p>rskedits</p>
+           <p>100 views - 4 months ago</p></div>
+
+         <div class="cell1"><a href="https://www.youtube.com/watch?v=Rs4F3thXGUI"><img src="images/spiderman.jpg"></a>
+          <a href="https://www.youtube.com/watch?v=Rs4F3thXGUI"></a>
+          spiderman </a>
+         <p>rskedits</p>
+           <p>1k views - 4 months ago</p>
+         </div>
+         
+         <div class="cell1"><a href="https://www.youtube.com/watch?v=iK7onyLiJ8Q"><img src="images/fall.jpg"></a>
+          <a href="https://www.youtube.com/watch?v=iK7onyLiJ8Q" class="play-btn"  data-toggle="modal" data-target="#fall">
+          fall -blender</a>
+           <p>rskedits</p>
+           <p>500 views - 3 months ago</p></div>
+
+         <div class="cell1"><a href="#"><img src="images/violet.jpeg"></a><a href="https://www.youtube.com/watch?v=g_djHov2xP0" 
+          class="play-btn"  data-toggle="modal" data-target="#violet">
+          violet</a>
+           <p>rskedits</p>
+           <p>800 views - 1 months ago</p>
+          </div>
+
+         <div class="cell1"><a href="#"><img src="images/levi.png"></a><a href="#" class="play-btn"  data-toggle="modal" data-target="#levi">
+          levi</a>
+           <p>rskedits</p>
+           <p>22k views - 4 months ago</p></div>
+        
+         
+         
+         <div class="cell1"><a href="#"><img src="images/eren.png"></a><a href="#" class="play-btn"  data-toggle="modal" data-target="#eren">
+           eren</a>
+           <p>rskedits</p>
+           <p>700 views - 3 months ago</p></div>
+
+         <div class="cell1"><a href="#"><img src="images/snake eyes.jpg"></a><a href="#" class="play-btn"  data-toggle="modal" data-target="#snakeeyes">
+          snake eyes</a>
+           <p>rskedits</p>
+           <p>54k views - 11 months ago</p></div>
+
+         <div class="cell1"><a href="#"><img src="images/tom hardy.jpg"></a><a href="#" class="play-btn"  data-toggle="modal" data-target="#tomhardy">
+          tom hardy</a>
+           <p>rskedits</p>
+           <p>458k views - 12 months ago</p></div>
+     
+         </div>
+      <!-- videoplayer -->
+
+     <!-- rdr2 -->
+
+
+
+       <div class="modal fade" id="rdr2" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+          
+            <div class="modal-body">
+             <video width="100%" controls autoplay loop> <source src="videos/rdr2.mp4" type="video/mp4"> </video>
+
+            </div>
+          
+          </div>
+        </div>
+      </div>
+
+
+<!-- spiderman -->
+
+       <div class="modal fade" id="spiderman">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+        <div class="modal-body">
+          <video width="100%" controls autoplay loop> <source src="videos/SPIDERMAN.mp4" type="video/mp4"> </video>
+ 
+        </div></div></div></div>   
+
+          <!-- fall -->
+
+        <div class="modal fade" id="fall">
+          <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+          <div class="modal-body">
+            <video width="100%" controls autoplay loop> <source src="videos/fall.mp4" type="video/mp4"> </video>
+   
+          </div></div></div></div>   
+
+
+            <!-- violet -->
+
+          <div class="modal fade" id="violet">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+            <div class="modal-content">
+            <div class="modal-body">
+              <video width="100%" controls autoplay loop> <source src="videos/violet.mp4" type="video/mp4"> </video>
+     
+            </div></div></div></div>   
+
+              <!-- levi -->
+
+
+            <div class="modal fade" id="levi">
+              <div class="modal-dialog modal-dialog-centered" role="document">
+              <div class="modal-content">
+              <div class="modal-body">
+                <video width="100%" controls autoplay loop> <source src="videos/levi.mp4" type="video/mp4"> </video>
+       
+              </div></div></div></div>   
+
+ 
+
+                  <!-- snake eyes -->
+
+
+                <div class="modal fade" id="snakeeyes">
+                  <div class="modal-dialog modal-dialog-centered" role="document">
+                  <div class="modal-content">
+                  <div class="modal-body">
+                    <video width="100%" controls autoplay loop> <source src="videos/Snake Eyes.mp4" type="video/mp4"> </video>
+           
+                  </div></div></div></div>   
+
+                  <!-- tom hardy    -->
+
+                  <div class="modal fade" id="tomhardy">
+                    <div class="modal-dialog modal-dialog-centered" role="document">
+                    <div class="modal-content">
+                    <div class="modal-body">
+                      <video width="100%" controls autoplay loop> <source src="videos/Tom Hardy.mp4" type="video/mp4"> </video>
+             
+                    </div></div></div></div>   
+
+
+              <!-- slides
+                          <div id="slides">
+
+                            <div id="muCarousel" class="carousel slide" data-ride="carousel"></div>
+                            
+                            <ol class="carousel-indicators">
+                                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                <li data-target="#myCarousel" data-slide-to="1"></li>
+                                <li data-target="#myCarousel" data-slide-to="2"></li>
+
+
+                        
+                            </ol>
+
+                            
+
+                            <div class="carousel-inner">
+                                <div class="item active">
+                                    <img src="image_1.jpg" alt="Los Angeles" style="width:100%;">
+                                </div>
+
+                                <div class="item">
+                                    <img src="image_2.jpg" alt="JD" style="width:100%;">
+                                </div>
+
+                                <div class="item">
+                                    <img src="image_3.jpg" alt="JD_1" style="width:100%;">
+                                </div>
+
+                            </div>
+
+
+
+                       
+
+                        <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                            <span class="glyphicon glyphicon-chevron-left"></span>
+                            <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                            <span class="glyphicon glyphicon-chevron-right"></span>
+                            <span class="sr-only">Next</span>
+                        </a>
+                        </div>
+</div> -->
+
+
+<!--Article------------------------------------------------------------------>
+     
+     <div id="footer">
+      Copyright &copy;  | 
+      <a href="https://www.youtube.com/channel/UCxSEBvDwHLPV2bIPOqRt7zw">RSK EDITS</a> |
+       from <a href="https://www.youtube.com/channel/UCxSEBvDwHLPV2bIPOqRt7zw">RENJITH SAMUEL G S</a>    </div>
+  
+    
+  </body>
+
+</html>
